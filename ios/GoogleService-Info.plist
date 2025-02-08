@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>915121399701-3fgca249i6bmve8tnf4fv8rev0ga45iv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.915121399701-3fgca249i6bmve8tnf4fv8rev0ga45iv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>915121399701-82uhrbrt52rgu5vp5n9lvvf1m7o94gj2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOdfUwKuT9qZFDuQneb97BgPr9osKY5Jw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>915121399701</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cm.afrosmartshop.app</string>
+	<key>PROJECT_ID</key>
+	<string>afrosmartshopcm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>afrosmartshopcm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:915121399701:ios:a4069b8792f95797e0789c</string>
+	<key>DATABASE_URL</key>
+	<string>https://afrosmartshopcm-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

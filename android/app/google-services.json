@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "915121399701",
+    "firebase_url": "https://afrosmartshopcm-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "afrosmartshopcm",
+    "storage_bucket": "afrosmartshopcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915121399701:android:d61a4faa8122ea06e0789c",
+        "android_client_info": {
+          "package_name": "cm.afrosmartshop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915121399701-82uhrbrt52rgu5vp5n9lvvf1m7o94gj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cm.afrosmartshop.app",
+            "certificate_hash": "697239b84a675db3620164aaf4ef13366312f64f"
+          }
+        },
+        {
+          "client_id": "915121399701-e0l0la8m2eqos3r3juvgcv50khnmpbg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cm.afrosmartshop.app",
+            "certificate_hash": "b0fcfa249db713965e1a67d83906a8c71b1b9842"
+          }
+        },
+        {
+          "client_id": "915121399701-r5jendlrs4n53mij75rmf10dandd14f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXsjvCjX6KMYXGjauH0d6AZKwfRdp1gs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915121399701-r5jendlrs4n53mij75rmf10dandd14f9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915121399701-3fgca249i6bmve8tnf4fv8rev0ga45iv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cm.afrosmartshop.app",
+                "app_store_id": "1576131940"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
